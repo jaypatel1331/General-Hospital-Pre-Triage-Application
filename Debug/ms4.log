@@ -1,0 +1,11 @@
+﻿  CovidPatient.cpp
+  IOAble.cpp
+  Menu.cpp
+  Patient.cpp
+  Ticket.cpp
+  Time.cpp
+  utils.cpp
+  Generating Code...
+ms4Tester.obj : error LNK2005: _main already defined in CPTester.obj
+TPTester.obj : error LNK2005: _main already defined in CPTester.obj
+C:\Users\Jay Patel\Downloads\BTP-Project-main\BTP-Project-main\MS4\Debug\ms4.exe : fatal error LNK1169: one or more multiply defined symbols found
