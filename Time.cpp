@@ -1,14 +1,3 @@
-/*********************************************************
- * Name: Jay Ashishbhai Patel
- * Student ID: 154925192
- * Seneca email: japatel31@myseneca.ca
- * Section: OOP 244 NGG
- * Project : Milestone 1
- *
- * I have done all the coding by myself and only copied the code
- *  that my professor provided to complete my workshops and assignments.
- **********************************************************/
-
 #include "Time.h"
 #include "utils.h"
 #include <iostream>
