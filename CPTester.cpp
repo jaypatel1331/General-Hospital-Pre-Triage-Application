@@ -1,11 +1,3 @@
-// CovidPatient Tester
-// file: CPTester.cpp
-// Version: 1.0 
-// Date: 2021-03-26
-// Author: Fardad 
-// Description:
-// This file tests the CovidPatient Module of your project
-/////////////////////////////////////////////
 #include <iostream>
 using namespace std;
 #include "Patient.h"
